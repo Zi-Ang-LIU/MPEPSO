@@ -1,2 +1,2 @@
 # MPEPSO
-The MATLAB source codes of the proposed MPEPSO will be released online after acceptance.
+The MATLAB source codes of the proposed MPEPSO will be released online after the acceptance.
